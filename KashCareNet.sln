@@ -17,6 +17,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KashCareApplication", "KashCareApplication", "{36A800B1-7867-4915-9246-2D108B6C9C11}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KashCareData", "KashCareData", "{27D4EAEF-524A-4AEA-823C-4A693ADDA1D4}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashCare.Logistics.App", "src\KashCare.Logistics.App\KashCare.Logistics.App.csproj", "{B234329A-3BDA-4CB9-8D32-0B4BEA927A3A}"
 EndProject
